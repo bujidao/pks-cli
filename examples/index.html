@@ -4,12 +4,13 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Document</title>
-  <script src="./js/bujidao-webpack-tjs-alpha.js"></script>
+  <script src="./js/pks-cli-alpha.js"></script>
 </head>
 <body>
   <button onclick="jsSay()">jsSay</button>
   <button onclick="tsSay()">tsSay</button>
   <button onclick="otherSay()">otherSay</button>
+  <button onclick="importjs()">importjs</button>
   
   <script>
     var jsSay = function() {
@@ -23,6 +24,11 @@
     var otherSay = function() {
       bujidao.otherFile('ts has a maolv')
     }
+    var importjs = function() {
+      bujidao.tsFile.getJs()
+    }
+
+    
   </script>
 </body>
 </html>

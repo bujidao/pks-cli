@@ -1,15 +1,24 @@
 {
-  "name": "bujidao-webpack-tjs",
+  "name": "pks-cli",
   "version": "1.0.0",
-  "description": "通过webpack打包模块化开发的ts/js 文件，并可以通过html导入并调用",
+  "description": "fullname: package-script，通过webpack打包模块化开发的ts/js 文件，并可以通过html导入并调用",
   "main": "dist/index.js",
   "license": "MIT",
-  "private": true,
+  "private": false,
   "author": "AlexCeng <izengjing.cn@gmail.com>",
   "scripts": {
     "dev": "webpack --watch --progress --config build/webpack.dev.js",
     "build": "webpack --config build/webpack.prod.js"
   },
+  "keywords": [
+    "webpack",
+    "typescript",
+    "javascript",
+    "html",
+    "package",
+    "js",
+    "ts"
+  ],
   "dependencies": {},
   "devDependencies": {
     "@types/node": "^14.14.16",
