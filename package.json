@@ -1,10 +1,9 @@
 {
   "name": "pks-cli",
   "version": "1.0.0",
-  "description": "fullname: package-script，通过webpack打包模块化开发的ts/js 文件，并可以通过html导入并调用",
-  "main": "dist/index.js",
+  "description": "packageing script(ts/js) together and used in html",
+  "main": "src/index.ts",
   "license": "MIT",
-  "private": false,
   "author": "AlexCeng <izengjing.cn@gmail.com>",
   "scripts": {
     "dev": "webpack --watch --progress --config build/webpack.dev.js",
@@ -15,9 +14,7 @@
     "typescript",
     "javascript",
     "html",
-    "package",
-    "js",
-    "ts"
+    "package"
   ],
   "dependencies": {},
   "devDependencies": {

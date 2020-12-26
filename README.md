@@ -8,10 +8,11 @@
 
   [English](./README.zh-CN.md) | 简体中文
 
-  [![NPM Version][npm-image]][npm-url]
-  [![NPM Downloads][downloads-image]][downloads-url]
-  [![Windows Build][appveyor-image]][appveyor-url]
-  [![Test Coverage][coveralls-image]][coveralls-url]
+  <img alt="npm" src="https://img.shields.io/npm/v/pks-cli">
+  <img alt="npm bundle size" src="https://img.shields.io/bundlephobia/min/pks-cli">
+  <img alt="NPM" src="https://img.shields.io/npm/l/pks-cli">
+  <img alt="npm collaborators" src="https://img.shields.io/npm/collaborators/pks-cli">
+  <img alt="node-current" src="https://img.shields.io/node/v/pks-cli">
 
 ## Install
 
@@ -39,13 +40,3 @@ npm run build
 ## License
 
 Copyright (c) 2017-present Alex Ceng
-
-
-[npm-image]: https://img.shields.io/npm/v/bujidao/pks-cli.svg
-[npm-url]: https://npmjs.org/package/pks-cli
-[downloads-image]: https://img.shields.io/npm/dm/pks-cli.svg
-[downloads-url]: https://npmcharts.com/compare/pks-cli?minimal=true
-[appveyor-image]: https://img.shields.io/appveyor/ci/dougwilson/pks-cli/master.svg?label=windows
-[appveyor-url]: https://ci.appveyor.com/project/dougwilson/pks-cli
-[coveralls-image]: https://img.shields.io/coveralls/expressjs/pks-cli/master.svg
-[coveralls-url]: https://coveralls.io/r/expressjs/pks-cli?branch=master
