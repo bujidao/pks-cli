@@ -1,6 +1,6 @@
 {
   "name": "pks-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "packageing script(ts/js) together and used in html",
   "main": "src/index.ts",
   "license": "MIT",
