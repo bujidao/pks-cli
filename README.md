@@ -6,7 +6,7 @@
   <img src="https://raw.githubusercontent.com/bujidao/pks-cli/master/pks-logo.png" max-height="500px" />
 </p>
 
-  English | [简体中文](https://raw.githubusercontent.com/bujidao/pks-cli/master/README.zh-CN.md)
+  English | [简体中文](https://github.com/bujidao/pks-cli/blob/master/README.zh-CN.md)
 
   <img alt="npm" src="https://img.shields.io/npm/v/pks-cli">
   <img alt="npm bundle size" src="https://img.shields.io/bundlephobia/min/pks-cli">
@@ -24,7 +24,7 @@ However, in actual projects, not all projects need to use vue/react, etc., or th
 
 Therefore, this module is mainly dedicated to: <strong>When ordinary projects adopt modular editing, the modular files are packaged into a unified export file, and can be directly called and used through the html script tag</strong>
 
-## Install
+## Installation
 
 * npm
 
@@ -38,7 +38,7 @@ Therefore, this module is mainly dedicated to: <strong>When ordinary projects ad
   yarn add pks-cli
   ```
 
-## Build
+## Quick Start
 
 ```bash
 # development
@@ -65,7 +65,7 @@ You Project
 ```
 
 
-## Ssage
+## Usage
 
 ``` bash
 # script
@@ -110,6 +110,7 @@ In actual projects, you may prefer your own name, for example, you want to use `
 Specific operation:
 
 Project root directory `package.json`, modify `name` to `myscript`
+
 ## License
 
 Copyright (c) 2017-present Alex Ceng

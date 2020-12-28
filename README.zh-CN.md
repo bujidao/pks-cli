@@ -6,7 +6,7 @@
   <img src="https://raw.githubusercontent.com/bujidao/pks-cli/master/pks-logo.png" max-height="500px" />
 </p>
 
-  [English](https://raw.githubusercontent.com/bujidao/pks-cli/master/README.md) | 简体中文
+  [English](./README.md) | 简体中文
 
   <img alt="npm" src="https://img.shields.io/npm/v/pks-cli">
   <img alt="npm bundle size" src="https://img.shields.io/bundlephobia/min/pks-cli">
