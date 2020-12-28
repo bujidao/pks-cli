@@ -1,6 +1,6 @@
 {
   "name": "pks-cli",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "packageing script(ts/js) together and used in html",
   "main": "src/index.ts",
   "license": "MIT",
@@ -16,6 +16,14 @@
     "html",
     "package"
   ],
+  "bugs": {
+    "url": "https://github.com/bujidao/pks-cli/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bujidao/pks-cli.git"
+  },
+  "homepage": "https://github.com/bujidao/pks-cli",
   "dependencies": {},
   "devDependencies": {
     "@types/node": "^14.14.16",
